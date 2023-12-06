@@ -1,2 +1,4 @@
 # freegrammarlypremium
-Copy this code and enter it into cookie editor to get free grammarly premium
+Copy this code and enter it into cookie editor to get free grammarly premium.
+
+For this, you will need to install an extension called cookie-editor. I will put the link for this right here. [https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm] This should take you to the Chrome webstore, where you can install the Chrome extension (cookie-editor). After installing this extension, go to the file cookies.txt and copy the cookies. Then, with these cookies, go to the following website [https://www.grammarly.com], click on the cookie-editor extension, and paste the JSON cookies from cookies.txt. And if it does not work, do not come crying to me. I will update it as soon as possible. If the cookies are not working right at that second, please feel free to come back about an hour or so later. Hopefully, it will work by then; if not, I am having some issues. This will probably be discontinued about mid-2024 or 2025, so if you are viewing this by then, it has been discontinued. Thank you for using this.
